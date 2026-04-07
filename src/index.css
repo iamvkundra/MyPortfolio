@@ -92,23 +92,64 @@ body {
 }
 
 .techstack {
-  width: 100%;
+  width: min(var(--cWidth), 1200px);
   position: relative;
-  height: var(--vh);
+  height: auto;
   margin: auto;
-  margin-top: 50px;
-  margin-bottom: -100px;
+  margin-top: 100px;
+  margin-bottom: 40px;
+  padding: 40px 0 20px;
 }
 
 .techstack h2 {
-  font-size: 80px;
+  font-size: 56px;
   text-align: center;
-  position: absolute;
-  width: 100%;
-  top: 120px;
-  left: 0;
-  font-weight: 400;
+  font-weight: 500;
   text-transform: uppercase;
+  margin: 0;
+}
+
+.techstack-subtitle {
+  text-align: center;
+  color: #adacac;
+  max-width: 700px;
+  margin: 14px auto 34px;
+  font-weight: 300;
+}
+
+.techstack-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(260px, 1fr));
+  gap: 16px;
+}
+
+.techstack-card {
+  border: 1px solid #363636;
+  border-radius: 12px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.techstack-card h3 {
+  margin: 0 0 12px 0;
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--accentColor);
+}
+
+.techstack-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.techstack-tags span {
+  border: 1px solid #424242;
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 400;
+  color: #d8d8d8;
 }
 
 @media screen and (min-width: 768px) {
@@ -117,7 +158,14 @@ body {
   }
 }
 @media screen and (max-width: 900px) {
+  .techstack {
+    margin-top: 70px;
+    padding-top: 20px;
+  }
   .techstack h2 {
-    font-size: 40px;
+    font-size: 36px;
+  }
+  .techstack-grid {
+    grid-template-columns: 1fr;
   }
 }

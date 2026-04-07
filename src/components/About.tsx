@@ -6,9 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am a software engineer focused on backend systems, cloud security,
+          and observability. I currently work at Atlassian in the Enterprise
+          Posture Management team, and previously built policy services and
+          secure workflow systems at SentinelOne, VMware, Broadcom, and Veritas.
+          I enjoy building reliable distributed systems, scalable APIs, and
+          strong developer-focused platforms.
         </p>
       </div>
     </div>

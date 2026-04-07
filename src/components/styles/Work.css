@@ -35,11 +35,8 @@
   box-sizing: border-box;
   border-right: 1px solid #363636;
   flex-shrink: 0;
-  gap: 50px;
+  gap: 20px;
   justify-content: start;
-}
-.work-flex .work-box:nth-child(even) {
-  flex-direction: column-reverse;
 }
 .work-flex::before,
 .work-flex::after {
@@ -84,6 +81,7 @@
 }
 .work-info > p {
   width: 90%;
+  margin-bottom: 12px;
 }
 .work-image {
   display: flex;
