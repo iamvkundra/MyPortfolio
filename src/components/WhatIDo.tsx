@@ -87,24 +87,22 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>BUILD</h3>
-              <h4>Backend and Platform Engineering</h4>
+              <h3>ASSESS</h3>
+              <h4>Data Analysis and Assessment</h4>
               <p>
-                I design and build backend services for enterprise products,
-                with a focus on policy evaluation, API design, reliability, and
-                cloud-native systems.
+                I specialize in managing educational data and ICT platforms at JCERT, 
+                performing complex analysis on exam results and large-scale academic datasets.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Go</div>
-                <div className="what-tags">Java</div>
-                <div className="what-tags">Kotlin</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">OpenSearch</div>
-                <div className="what-tags">Distributed Tracing</div>
-                <div className="what-tags">Policy Engines (OPA/Rego)</div>
-                <div className="what-tags">System Design</div>
-                <div className="what-tags">Cloud Security</div>
+                <div className="what-tags">Advanced Excel</div>
+                <div className="what-tags">Data Analysis</div>
+                <div className="what-tags">J-Guruji</div>
+                <div className="what-tags">e-Vidya Vahini</div>
+                <div className="what-tags">RAIL Exam Reports</div>
+                <div className="what-tags">ICT Platforms</div>
+                <div className="what-tags">Corel Draw</div>
+                <div className="what-tags">Hindi/English Typing</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,23 +126,22 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>OPTIMIZE</h3>
-              <h4>Operations, Reliability, and Delivery</h4>
+              <h3>OPERATE</h3>
+              <h4>Accounts and Operations</h4>
               <p>
-                I improve system observability and policy lifecycle workflows
-                through robust testing, performance tuning, and collaboration
-                across engineering and product teams.
+                I manage financial records, bank reconciliations, and inventory tracking with 
+                precision. I ensure smooth operations through careful bill accountability and payroll management.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">CI/CD</div>
-                <div className="what-tags">Monitoring</div>
-                <div className="what-tags">Logging Pipelines</div>
-                <div className="what-tags">Incident Readiness</div>
-                <div className="what-tags">Scalability</div>
-                <div className="what-tags">Performance Testing</div>
-                <div className="what-tags">Security Compliance</div>
-                <div className="what-tags">Cross-team Collaboration</div>
+                <div className="what-tags">Tally.erp 9</div>
+                <div className="what-tags">Accounting</div>
+                <div className="what-tags">Inventory Record</div>
+                <div className="what-tags">Cash Handling</div>
+                <div className="what-tags">Payroll Management</div>
+                <div className="what-tags">Budget Tracking</div>
+                <div className="what-tags">Financial Reports</div>
+                <div className="what-tags">MS Office</div>
               </div>
               <div className="what-arrow"></div>
             </div>

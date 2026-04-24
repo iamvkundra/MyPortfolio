@@ -6,12 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am a software engineer focused on backend systems, cloud security,
-          and observability. I currently work at Atlassian in the Enterprise
-          Posture Management team, and previously built policy services and
-          secure workflow systems at SentinelOne, VMware, Broadcom, and Veritas.
-          I enjoy building reliable distributed systems, scalable APIs, and
-          strong developer-focused platforms.
+          I am a dedicated professional with over 6 years of experience in operations, data analysis, and assessment. 
+          I currently serve as an Assessment Cell Specialist at the Jharkhand Council of Educational Research and Training (JCERT), 
+          where I manage large-scale educational data and ICT platforms. My background also includes intensive 
+          experience in account management and inventory control. I am committed to continuous learning and 
+          leveraging my skills to achieve organizational goals.
         </p>
       </div>
     </div>

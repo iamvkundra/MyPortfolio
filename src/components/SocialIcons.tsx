@@ -1,9 +1,6 @@
 import {
   FaEnvelope,
-  FaGithub,
-  FaLinkedinIn,
 } from "react-icons/fa";
-import { SiLeetcode } from "react-icons/si";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
@@ -60,29 +57,14 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/iamvkundra" target="_blank">
-            <FaGithub />
-          </a>
-        </span>
-        <span>
-          <a href="https://www.linkedin.com/in/mkmayank39" target="_blank">
-            <FaLinkedinIn />
-          </a>
-        </span>
-        <span>
-          <a href="https://leetcode.com/mkmayank39" target="_blank">
-            <SiLeetcode />
-          </a>
-        </span>
-        <span>
-          <a href="mailto:mkmayank39@gmail.com" target="_blank">
+          <a href="mailto:souravsinghraja1998@gmail.com" target="_blank">
             <FaEnvelope />
           </a>
         </span>
       </div>
       <a
         className="resume-button"
-        href="https://www.linkedin.com/in/mkmayank39"
+        href="/Resume 1.pdf"
         target="_blank"
         data-cursor="disable"
       >

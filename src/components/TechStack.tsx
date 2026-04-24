@@ -1,20 +1,20 @@
 const TechStack = () => {
   const stackGroups = [
     {
-      title: "Languages",
-      items: ["Java", "Kotlin", "Go", "TypeScript"],
+      title: "Data & Office",
+      items: ["MS Excel (Advanced)", "MS Word", "MS Power Point", "Corel Draw"],
     },
     {
-      title: "Backend & APIs",
-      items: ["Microservices", "REST APIs", "Distributed Systems", "System Design"],
+      title: "Finance & Accounts",
+      items: ["Tally.erp 9 with GST", "Ledger Management", "Financial Reporting", "Bank Reconciliation"],
     },
     {
-      title: "Cloud Security",
-      items: ["OPA/Rego", "Policy Evaluation", "Asset-Policy Matching", "Compliance Controls"],
+      title: "Information Systems",
+      items: ["J-Guruji ICT Platform", "e-Vidya Vahini", "DTH-TV Content", "DIKHSHA Platform"],
     },
     {
-      title: "Observability",
-      items: ["OpenSearch", "Distributed Tracing", "Logging Pipelines", "Reliability Engineering"],
+      title: "Analysis & Speed",
+      items: ["Pivot Tables/Charts", "V-Lookup", "Hindi Typing (30 WPM)", "English Typing (34 WPM)"],
     },
   ];
 

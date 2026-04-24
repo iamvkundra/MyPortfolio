@@ -15,43 +15,40 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Software Engineer - II</h4>
-                <h5>Atlassian</h5>
+                <h4>Assessment Cell Specialist</h4>
+                <h5>JCERT, Ratu Ranchi</h5>
               </div>
-              <h3>2025 - Present</h3>
+              <h3>3.6 Years</h3>
             </div>
             <p>
-              Building enterprise posture management capabilities to enforce
-              robust compliance standards across Atlassian products and
-              environments.
+              Leading data analysis for assessment cell. Managing J-Guruji and e-Vidya Vahini ICT platforms. 
+              Analyzing RAIL Exam reports and State Olympiad data. Overseeing DTH-TV educational content.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Software Development Engineer</h4>
-                <h5>SentinelOne</h5>
+                <h4>Account Cell Associate</h4>
+                <h5>JCERT, Ratu Ranchi</h5>
               </div>
-              <h3>2024 - 2025</h3>
+              <h3>1.5 Years</h3>
             </div>
             <p>
-              Owned the Policy Service for cloud-native security, managing
-              Rego-based policy evaluation, scalable asset-policy matching, and
-              policy lifecycle reliability.
+              Managed daily accounting records, financial transactions, and bank reconciliations. 
+              Prepared vouchers, bills, and monthly financial reports while ensuring proper documentation.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>MTS-2 / R&D Engineer-2</h4>
-                <h5>VMware (Broadcom)</h5>
+                <h4>Operations Associate</h4>
+                <h5>Uber Mining Pvt. Ltd.</h5>
               </div>
-              <h3>2022 - 2024</h3>
+              <h3>1 Year</h3>
             </div>
             <p>
-              Built backend capabilities for Aria Log Insight Cloud, including
-              scalable APIs, dynamic tagging, circuit breaker features, and
-              improved observability with strong test coverage.
+              Handled bill accountability, cash handling, and inventory records. 
+              Managed store keeping and prepared payroll salary sheets.
             </p>
           </div>
         </div>
